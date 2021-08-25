@@ -1,0 +1,3 @@
+vehicle_number,vehicle_type,company_name,mobile_number,amount,start_date,end_date,payment_type,status
+RJ14MX5578,2W,XXX Compnay,9782303930,200,2020-07-01,2020-07-30,Cash,1
+RJ14US7580,4W,XXX Compnay,9874563210,300,2020-07-01,2020-07-30,Cash,1

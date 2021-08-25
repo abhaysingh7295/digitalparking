@@ -1,0 +1,84 @@
+[28-Dec-2020 17:55:02 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/thedigitalparkin/public_html/digital-parking/vendor/crons/pre-booking-expire.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/thedigitalparkin/public_html/digital-parking/vendor/crons/pre-booking-expire.php on line 3
+[28-Dec-2020 18:00:01 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/thedigitalparkin/public_html/digital-parking/vendor/crons/pre-booking-expire.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/thedigitalparkin/public_html/digital-parking/vendor/crons/pre-booking-expire.php on line 3
+[28-Dec-2020 18:05:01 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/thedigitalparkin/public_html/digital-parking/vendor/crons/pre-booking-expire.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/thedigitalparkin/public_html/digital-parking/vendor/crons/pre-booking-expire.php on line 3
+[28-Dec-2020 18:10:02 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/thedigitalparkin/public_html/digital-parking/vendor/crons/pre-booking-expire.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/thedigitalparkin/public_html/digital-parking/vendor/crons/pre-booking-expire.php on line 3
+[28-Dec-2020 18:15:01 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/thedigitalparkin/public_html/digital-parking/vendor/crons/pre-booking-expire.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/thedigitalparkin/public_html/digital-parking/vendor/crons/pre-booking-expire.php on line 3
+[28-Dec-2020 18:20:01 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/thedigitalparkin/public_html/digital-parking/vendor/crons/pre-booking-expire.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/thedigitalparkin/public_html/digital-parking/vendor/crons/pre-booking-expire.php on line 3
+[28-Dec-2020 18:25:01 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/thedigitalparkin/public_html/digital-parking/vendor/crons/pre-booking-expire.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/thedigitalparkin/public_html/digital-parking/vendor/crons/pre-booking-expire.php on line 3
+[28-Dec-2020 18:30:01 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/thedigitalparkin/public_html/digital-parking/vendor/crons/pre-booking-expire.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/thedigitalparkin/public_html/digital-parking/vendor/crons/pre-booking-expire.php on line 3
+[28-Dec-2020 18:35:01 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/thedigitalparkin/public_html/digital-parking/vendor/crons/pre-booking-expire.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/thedigitalparkin/public_html/digital-parking/vendor/crons/pre-booking-expire.php on line 3
+[28-Dec-2020 18:40:01 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/thedigitalparkin/public_html/digital-parking/vendor/crons/pre-booking-expire.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/thedigitalparkin/public_html/digital-parking/vendor/crons/pre-booking-expire.php on line 3
+[28-Dec-2020 18:45:01 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/thedigitalparkin/public_html/digital-parking/vendor/crons/pre-booking-expire.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/thedigitalparkin/public_html/digital-parking/vendor/crons/pre-booking-expire.php on line 3
+[28-Dec-2020 18:50:01 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/thedigitalparkin/public_html/digital-parking/vendor/crons/pre-booking-expire.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/thedigitalparkin/public_html/digital-parking/vendor/crons/pre-booking-expire.php on line 3
+[28-Dec-2020 18:55:01 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/thedigitalparkin/public_html/digital-parking/vendor/crons/pre-booking-expire.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/thedigitalparkin/public_html/digital-parking/vendor/crons/pre-booking-expire.php on line 3
+[28-Dec-2020 19:00:02 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/thedigitalparkin/public_html/digital-parking/vendor/crons/pre-booking-expire.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/thedigitalparkin/public_html/digital-parking/vendor/crons/pre-booking-expire.php on line 3
+[28-Dec-2020 19:05:01 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/thedigitalparkin/public_html/digital-parking/vendor/crons/pre-booking-expire.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/thedigitalparkin/public_html/digital-parking/vendor/crons/pre-booking-expire.php on line 3
+[06-Feb-2021 12:20:01 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/thedigitalparkin/public_html/digital-parking/vendor/crons/pre-booking-expire.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/thedigitalparkin/public_html/digital-parking/vendor/crons/pre-booking-expire.php on line 3
+[06-Feb-2021 12:25:01 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/thedigitalparkin/public_html/digital-parking/vendor/crons/pre-booking-expire.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/thedigitalparkin/public_html/digital-parking/vendor/crons/pre-booking-expire.php on line 3
+[06-Feb-2021 12:30:02 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/thedigitalparkin/public_html/digital-parking/vendor/crons/pre-booking-expire.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/thedigitalparkin/public_html/digital-parking/vendor/crons/pre-booking-expire.php on line 3
+[08-Feb-2021 18:30:01 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/thedigitalparkin/public_html/digital-parking/vendor/crons/pre-booking-expire.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/thedigitalparkin/public_html/digital-parking/vendor/crons/pre-booking-expire.php on line 3
+[13-Mar-2021 16:35:01 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/thedigitalparkin/public_html/digital-parking/vendor/crons/pre-booking-expire.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/thedigitalparkin/public_html/digital-parking/vendor/crons/pre-booking-expire.php on line 3
+[22-Mar-2021 08:00:01 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/thedigitalparkin/public_html/digital-parking/vendor/crons/pre-booking-expire.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/thedigitalparkin/public_html/digital-parking/vendor/crons/pre-booking-expire.php on line 3

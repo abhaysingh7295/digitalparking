@@ -1,0 +1,12 @@
+[26-Mar-2021 20:29:14 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/thedigitalparkin/public_html/digital-parking/staff/api/vehicle_history.php:90
+Stack trace:
+#0 {main}
+  thrown in /home/thedigitalparkin/public_html/digital-parking/staff/api/vehicle_history.php on line 90
+[26-Mar-2021 20:29:16 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/thedigitalparkin/public_html/digital-parking/staff/api/profile.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/thedigitalparkin/public_html/digital-parking/staff/api/profile.php on line 9
+[26-Mar-2021 20:29:18 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/thedigitalparkin/public_html/digital-parking/staff/api/vehicle_fare_info.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/thedigitalparkin/public_html/digital-parking/staff/api/vehicle_fare_info.php on line 9

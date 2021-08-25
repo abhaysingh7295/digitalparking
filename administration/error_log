@@ -1,0 +1,6 @@
+[10-Mar-2021 17:49:21 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ynefobmi/public_html/digital-parking/administration/functions.php:8
+Stack trace:
+#0 /home/ynefobmi/public_html/digital-parking/administration/header.php(18): getAdminSettings(Object(mysqli))
+#1 /home/ynefobmi/public_html/digital-parking/administration/vendor-wallet-history.php(1): include('/home/ynefobmi/...')
+#2 {main}
+  thrown in /home/ynefobmi/public_html/digital-parking/administration/functions.php on line 8

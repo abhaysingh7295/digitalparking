@@ -1,0 +1,2 @@
+[24-Oct-2018 16:30:59 Etc/GMT] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/amazingi/public_html/parking/admin/mpdf/examples/example34_invoice_example.php on line 167
+[24-Oct-2018 16:32:23 Etc/GMT] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/amazingi/public_html/parking/admin/mpdf/examples/example34_invoice_example.php on line 167
